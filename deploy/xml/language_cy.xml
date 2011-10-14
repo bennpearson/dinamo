@@ -1,0 +1,13 @@
+<language>	
+	<play_btn>CY Play</play_btn>
+	<instr_btn>CY Instruc</instr_btn>
+	<lang_btn>CY Language</lang_btn>
+	
+	<replay_btn>CY replay</replay_btn>
+	<menu_btn>CY back to menu</menu_btn>
+	
+	<intro_title>CY Game Title!</intro_title>
+	<end_title>CY YOU PUSHED THE BUTTON!!</end_title>	
+	
+	<do_not_push_btn>CY DO NOT PUSH THIS BUTTON</do_not_push_btn>
+</language>

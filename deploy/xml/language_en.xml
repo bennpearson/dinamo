@@ -1,0 +1,14 @@
+<language>	
+	<play_btn>Play</play_btn>
+	<instr_btn>Instructions</instr_btn>
+	<lang_btn>Language</lang_btn>
+	
+	<replay_btn>replay</replay_btn>
+	<menu_btn>back to menu</menu_btn>	
+	
+	<intro_title>Game Title!</intro_title>
+	<end_title>YOU PUSHED THE BUTTON!!</end_title>
+	
+	<do_not_push_btn>DO NOT PUSH THIS BUTTON</do_not_push_btn>
+	
+</language>

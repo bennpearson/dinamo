@@ -1,0 +1,1 @@
+﻿package classes{	public class ScreenConstants	{		public static const SCREEN_INTRO:String = "screen_intro";				public static const SCREEN_GAME:String = "screen_game";		public static const SCREEN_END:String = "screen_end";	}}
