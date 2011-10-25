@@ -1,10 +1,10 @@
 eclipse.preferences.version=1
 flashProFiles/defaultIndex=0
-flashProFiles/defaultPath=Abadas Game.fla
-flashProFiles/paths=Abadas Game.fla
+flashProFiles/defaultPath=Adabas.fla
+flashProFiles/paths=Adabas.fla;Abadas Game.fla
 flashProFiles/flashProID=1318599164089
 flashProFiles/asVersion=0
 flashProFiles/boundTemplate=${FLASHPRO_USERCONFIG}/ActionScript 3.0/Templates/boundClass_as3.as
 flashProFiles/classTemplate=${FLASHPRO_USERCONFIG}/ActionScript 3.0/Templates/standardClass_as3.as
-flashProFiles/recentFiles=classes/xml/XMLLoader.as;classes/ScreenGame.as;classes/ScreenEnd.as;classes/ScreenConstants.as;classes/Main.as;Adabas.fla
+flashProFiles/recentFiles=AuthortimeSharedAssets.fla;classes/Main.as;Adabas.fla;classes/xml/XMLLoader.as;classes/ScreenGame.as;classes/ScreenEnd.as;classes/ScreenConstants.as
 flashProFiles/locations=
