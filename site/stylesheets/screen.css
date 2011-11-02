@@ -1,0 +1,29 @@
+body {
+background-color:#9accf0;
+}
+
+.container{
+margin:auto;
+width: 746px;
+}
+
+object { outline:none; }
+
+
+h1.logo {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    display: block;
+    float: left;
+    margin: 20px 0 20px 0;
+    text-indent: -9999em;
+}
+
+h1.logo a {
+    background: url("../images/logo.png") no-repeat scroll 0 0 transparent;
+    border-bottom: medium none;
+    display: block;
+    height: 155px;
+    width: 746px;
+}
